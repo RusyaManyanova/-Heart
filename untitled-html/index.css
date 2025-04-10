@@ -1,0 +1,174 @@
+.desktop1-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+
+.desktop1-desktop1 {
+    gap: 10px;
+    width: 100%;
+    max-width: 1200px;
+    height: 740px;
+    display: flex;
+    padding: 237px 704px;
+    overflow: hidden;
+    align-items: center;
+    flex-shrink: 0;
+    justify-content: center;
+    box-sizing: border-box;
+    background-color: rgba(255, 255, 255, 1);
+}
+ 
+.desktop1-frame5 {
+  gap: 34px;
+  width: 512px;
+  height: 606px;
+  display: flex;
+  padding: 17px 25px;
+  flex-wrap: wrap;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 30px;
+  justify-content: center;
+  background-color: rgba(167, 214, 255, 1);
+}
+ 
+.desktop1-frame4svg {
+  width: 374px;
+  height: 184px;
+}
+ 
+.desktop1-component2input1 {
+  gap: 10px;
+  width: 462px;
+  display: flex;
+  padding: 20px 44px;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+}
+ 
+.desktop1-rectangle21 {
+  top: 0px;
+  left: 0px;
+  width: 462px;
+  height: 76px;
+  position: absolute;
+  border-radius: 20px;
+}
+ 
+.desktop1-text1 {
+  color: rgba(143, 143, 143, 1);
+  width: 390px;
+  height: auto;
+  z-index: 1;
+  font-size: 26px;
+  font-style: Light;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.desktop1-component2input2 {
+  gap: 10px;
+  width: 462px;
+  display: flex;
+  padding: 20px 44px;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+}
+ 
+.desktop1-rectangle22 {
+  top: 0px;
+  left: 0px;
+  width: 462px;
+  height: 76px;
+  position: absolute;
+  border-radius: 20px;
+}
+ 
+.desktop1-text2 {
+  color: rgba(143, 143, 143, 1);
+  width: 390px;
+  height: auto;
+  z-index: 1;
+  font-size: 26px;
+  font-style: Light;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.desktop1-component3button1 {
+  gap: 10px;
+  display: flex;
+  padding: 24px 43px;
+  position: relative;
+  align-items: center;
+  justify-content: center;
+}
+ 
+.desktop1-rectangle31 {
+  top: 0px;
+  left: 0px;
+  width: 285px;
+  height: 72px;
+  position: absolute;
+  border-radius: 20px;
+}
+ 
+.desktop1-text3 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  z-index: 1;
+  font-size: 20px;
+  font-style: Light;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.desktop1-component3button2 {
+  gap: 10px;
+  display: flex;
+  padding: 24px 43px;
+  position: relative;
+  align-items: center;
+  justify-content: center;
+}
+ 
+.desktop1-rectangle32 {
+  top: 0px;
+  left: 0px;
+  width: 143px;
+  height: 72px;
+  position: absolute;
+  border-radius: 20px;
+}
+ 
+.desktop1-text4 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  z-index: 1;
+  font-size: 20px;
+  font-style: Light;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
